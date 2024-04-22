@@ -1,0 +1,23 @@
+Thirumangalam,Karadikal,12.4
+Thirumangalam,Kallani, 14.4
+Thirumangalam,Kasipuram, 3.3
+Thirumangalam,Thennamanallur,20.4
+Kappalur,Rayapalayam,7.5
+Usilampatti,Krishnapuram,66.8
+Usilampatti,Vikkramangalam,34.5
+Usilampatti,Kannanoor,38.7
+Elumalai,Jothinayakanur,68.4
+Avanyapuram,Nedungulam,23.1
+Avanyapuram,Panaikulam,22.7
+Avanyapuram,Perungudi,5.4
+Avanyapuram,Thottiyapatti,12.4
+Avanyapuram,Virathanoor,13.8
+Vadipatti,Andipatti,56.5
+Vadipatti,Katchaikatti,14.2
+Vadipatti,Kodimangalam,21.1
+Vadipatti,Ayyankottai,9.7
+Vadipatti,Thaniciyam,6.3
+Paravai,Ariyur,15.2
+Othakadai,Thiruvaduvur,10
+Keezhavasal,Viraganoor,5.5
+

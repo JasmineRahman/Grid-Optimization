@@ -1,0 +1,5 @@
+grid,Goripalayam,70
+Thiruparankundram,Periyar,40
+Vadipatti,Thiruparankundram,60
+kappalur,urangapatti,40
+grid,urangapatti,85
